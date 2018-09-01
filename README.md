@@ -19,7 +19,6 @@ A curated list of podcasts we like to listen to.
 - [Swedish](#in-swedish)
 - [French](#in-french)
 - [German](#in-german)
-- [Chinese](#in-chinese)
 - [Polish](#in-polish)
 - [Turkish](#in-turkish)
 - [Finnish](#in-finnish)
@@ -284,12 +283,6 @@ A curated list of podcasts we like to listen to.
 * [Request for Comments](http://requestforcomments.de/) - Der RFC Podcast
 * [Working Draft](http://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
 * [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of papers 4. Releasing pretty much all two weeks
-
-## In Chinese
-
-* [Code Time](https://codetimecn.com/) - A Chinese podcast for programmers, hosted by [业余西](http://weibo.com/yeyuxi113?is_hot=1)
-* [Programmer life](http://podcast.tchen.me/) - Weekly tech podcast hosted by Tyr Chen in the silicon valley. Main topics are interesting github projects / hacker news topics and startups.
-* [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
 ## In Polish
 
