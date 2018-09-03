@@ -119,6 +119,7 @@ A curated list of podcasts we like to listen to.
 * [New Rustacean](http://www.newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Nodeup](http://nodeup.com/) - A Node.js Podcast.
 * [Note To Self](http://www.wnyc.org/shows/notetoself/) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
+* [NZ Tech Podcast](https://nztechpodcast.com/) - The first NZ Tech Podcast episode was recorded by Paul Spain and Bradley Borrows in early 2011.
 * [Office 365 Developer Podcast](http://blogs.office.com/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
 * [Packet Pushers](http://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
