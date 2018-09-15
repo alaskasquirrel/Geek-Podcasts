@@ -183,6 +183,7 @@ A curated list of podcasts we like to listen to.
 * [The Manifest](https://manifest.fm) - A podcast all about package management.
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
+* [The Rubin Report](https://www.rubinreport.com/) - Real conversations, unfiltered rants, and one on one interviews with some of the most interesting names in news and entertainment. Comedians, authors, and influencers join Dave each week to break down the latest in politics and current events. Real people, real issues, real talk. 
 * [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) - A weekly podcast about developers and the Stack Overflow community.
 * [The Stalman Podcast](http://www.stalmanpodcast.com/) - We are all creators now and we want the technology to get out of the way of our great ideas. Tyler Stalman & guests bridge the gap between photography, film making, design and the tools we use to create them. 
