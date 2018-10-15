@@ -86,6 +86,7 @@ A curated list of podcasts we like to listen to.
 * [Ember Weekend](https://emberweekend.com) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
 * [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
+* [FactorDaily Outliers](https://factordaily.com/podcasts/) - a podcast about the ones who chose to take the road not taken. It’s about the crazy and the curious. 
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
 * [Fragmented](http://fragmentedpodcast.com/) - An Android Developer Podcast.
