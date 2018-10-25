@@ -144,7 +144,9 @@ A curated list of podcasts we like to listen to.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - A weekly Internet Audio Talk Show for IT Professionals working with Microsoft products.
 * [Rusty Radio](http://rustyrad.io/) - A show about the Rust programming language and community.
+* [Salesforceway way](https://salesforceway.com/) - A podcast for salesforce developers, hosted by Xi Xiao.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
+* [Sketch Crypto](http://sketchcrypto.com/) - Crypto and blockchain technology centric.A podcast hosted by Xi Xiao.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
