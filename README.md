@@ -311,6 +311,7 @@ A curated list of podcasts we like to listen to.
 ## In Japanese
 
 * [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
+* [週刊EVニュース](https://evnews.jp/) - 毎週、世界の電気自動車ニュースを伝えます。
 
 ### Tooling
 
