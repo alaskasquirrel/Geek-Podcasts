@@ -119,6 +119,7 @@ A curated list of podcasts we like to listen to.
 * [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 * [Makers](https://makers.crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
 * [Mastering Embedded Systems](http://embeddedsuccess.com/podcast/) - I have identified four major problems in mastering Embedded Systems: 1. Not enough specialists; 2. inadequate design and poor detections of faults; 3. mandatory multi-site approaches are failing; 4. bad mistakes in managing Virtual Teams I'll teach you the know-how and the tools to overcome these challenges.
+* [Mavis](http://mavispodcast.com/) - From pencils and paper, and each-others “weird quirks” to the current and future of technology, the hosts discuss whatever they like.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
 * [MS Dev Show](http://msdevshow.com/) - THE podcast for Microsoft developers. Jason Young and Carl Schweitzer talk about the latest in developer news covering topics such as the Azure cloud, Windows, Windows Phone, Visual Studio, and cross-platform development using the Microsoft platform.
 * [New Rustacean](http://www.newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
@@ -132,6 +133,7 @@ A curated list of podcasts we like to listen to.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
+* [Pubic Function](https://publicfunction.fireside.fm/) - Public Function is a weekly show talking all things technology, software, development, gaming and related topics. Your hosts are Albert Park and Greg Parsons.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 * [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
 * [Reactive](http://reactive.audio/) - A podcast which merges, filters, scans and maps streams of thoughts about software engineering, culture, and technology.
