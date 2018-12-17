@@ -35,6 +35,7 @@ A curated list of podcasts we like to listen to.
 
 * [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
 * [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
+* [a16z Podcast](https://a16z.com/podcasts/) - The a16z Podcast discusses tech and culture trends, news, and the future -- especially as ‘software eats the world’.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](http://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 * [Almost Better Than Silence](http://almostbetterthansilence.com/) - A comedy podcast about video games that features technology news, guest interviews, and conversation games!
@@ -138,6 +139,7 @@ A curated list of podcasts we like to listen to.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
+* [Podcast Review](https://podcastreview.org/) - A Los Angeles Review of Books Channel.
 * [Pubic Function](https://publicfunction.fireside.fm/) - Public Function is a weekly show talking all things technology, software, development, gaming and related topics. Your hosts are Albert Park and Greg Parsons.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 * [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
