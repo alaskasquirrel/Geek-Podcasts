@@ -142,6 +142,7 @@ A curated list of podcasts we like to listen to.
 * [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
 * [Podcast Review](https://podcastreview.org/) - A Los Angeles Review of Books Channel.
 * [Pubic Function](https://publicfunction.fireside.fm/) - Public Function is a weekly show talking all things technology, software, development, gaming and related topics. Your hosts are Albert Park and Greg Parsons.
+* [Proof of Words](https://proofofwords.fireside.fm/) - Blockchain explained. Discussions on the latest from the crypto space with a technical focus.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 * [Radiolab](http://www.radiolab.org) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
 * [Reactive](http://reactive.audio/) - A podcast which merges, filters, scans and maps streams of thoughts about software engineering, culture, and technology.
