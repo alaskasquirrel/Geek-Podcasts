@@ -9,6 +9,7 @@ A curated list of podcasts we like to listen to.
 * [FIRESIDE.FM](https://fireside.fm/) - Podcast Hosting and Analytics (By podcasters, for podcasters. You make the fun, we make it easy.)
 * [Relay.FM](https://www.relay.fm/) - Relay FM is an independent podcast network for people who are creative, curious, and maybe even a little obsessive - just like its hosts.
 * [TWiT](https://twit.tv/) 
+* [The Bitcoin Podcast Network](https://thebitcoinpodcast.com/) - 
 # Table of Contents
 
 ## Podcasts by language
@@ -188,6 +189,7 @@ A curated list of podcasts we like to listen to.
 * [The Back to Front Show](http://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
+* [The Bulwark Podcast](https://podcast.thebulwark.com/) - Smart, Conservative, Never Tribal.
 * [The Changelog](https://changelog.com/podcast/) - Open Source moves fast. Keep up. Releasing a new episode every Friday.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
 * [The Distributed Data Show](https://academy.datastax.com/weekly-show) - Weekly source for the latest news and technical expertise to help building large-scale distributed systems. Brought by the DataStax Technical Evangelist team, go in-depth with DataStax engineers and special guests from the broader data community. New episodes each Tuesday.
