@@ -216,6 +216,7 @@ A curated list of podcasts we like to listen to.
 * [Toolsday Podcast](http://toolsday.io/) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
 * [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 * [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
+* [Universe University](https://universeuniversity.fireside.fm/) - A journey through astronomy and space history to the outer boundaries of the universe.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com) - Interviews with people that are making the PHP community special.
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) - Podcast about JavaScript and front-end web development.
 * [Weekly Dev Tips](https://www.weeklydevtips.com) - A podcast by [@ardalis](https://twitter.com/ardalis) providing one pragmatic tip per episode.
