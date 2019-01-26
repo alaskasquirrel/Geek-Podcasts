@@ -201,6 +201,7 @@ A curated list of podcasts we like to listen to.
 * [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
 * [The Manifest](https://manifest.fm) - A podcast all about package management.
+* [The More Than Just Code Podcast](http://www.mtjc.fm/) - A show about mobile development (& for those of you driving at home.)
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
 * [The Rubin Report](https://www.rubinreport.com/) - Real conversations, unfiltered rants, and one on one interviews with some of the most interesting names in news and entertainment. Comedians, authors, and influencers join Dave each week to break down the latest in politics and current events. Real people, real issues, real talk. 
