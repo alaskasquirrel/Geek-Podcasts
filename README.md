@@ -40,6 +40,7 @@ A curated list of podcasts we like to listen to.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](http://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 * [Almost Better Than Silence](http://almostbetterthansilence.com/) - A comedy podcast about video games that features technology news, guest interviews, and conversation games!
+* [All Things Git](https://www.allthingsgit.com/) - The Podcast About Git.
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 * [Arms Control Wonk](https://www.armscontrolwonk.com/) - The First blog on Arms Control, Disarmament and Nonproliferation. It has since been a home to everything that is "too wonky or obscene" for publication about Nuclear Weapons. 
 * [Artificial Intelligence](https://lexfridman.com/ai/) - Conversations at MIT and beyond about the nature of intelligence and AI from the perspective of deep learning, robotics, AGI, neuroscience, philosophy, psychology, cognitive science, economics, physics, mathematics, and more.
@@ -71,6 +72,7 @@ A curated list of podcasts we like to listen to.
 * [Curious Minds](http://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
 * [Daisy AI Podcast](https://daisypodcast.wordpress.com/) - Artificial Intelligence News and Learning.
 * [Darknet Diaries](https://darknetdiaries.com) - Stories from hackers or those who have been attacked. How they got in and what happened.
+* [DataCamp](https://www.datacamp.com/community/podcast) - DataCamp’s official podcast. Presented by Hugo Bowne-Anderson.
 * [Data Skeptic](http://dataskeptic.com/) - The Data Skeptic Podcast features interviews and discussion of topics related to data science, statistics, machine learning, artificial intelligence and the like.
 * [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
 * [Descriptive](http://descriptive.audio/) - This is an interview show with people from the JavaScript and web development world, hosted by Kahlil Lechelt and Henning Glatter-Götz.
@@ -91,6 +93,7 @@ A curated list of podcasts we like to listen to.
 * [Ember Weekend](https://emberweekend.com) - A week(end)ly podcast about Ember, hosted by Jon and Chase.
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
 * [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
+* [Exponent](https://exponent.fm/) - Exponent is a podcast about tech and society hosted by Ben Thompson and James Allworth.
 * [FactorDaily Outliers](https://factordaily.com/podcasts/) - a podcast about the ones who chose to take the road not taken. It’s about the crazy and the curious. 
 * [FinTech Insider by 11:FS](https://fi.11fs.com/) - The #1 business podcast for FinTech innovators, influencers, and those eager to learn.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
@@ -112,6 +115,7 @@ A curated list of podcasts we like to listen to.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP) - Oficial Johnson Space Center NASA's podcast. Hosted weekly, its topics are in general about space and the ISS.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
 * [Internet History Podcast](http://www.internethistorypodcast.com/) - What we’ll get out of this is hopefully a comprehensive history of the Internet Era, put together by the Internet as a community, including the voices of those who lived it and did it.
+* [Import This](https://www.kennethreitz.org/import-this) - Featuring Kennneth Reitz and Alex Gaynor.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) - A Podcast by real world sysadmins, for real world sysadmins.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
@@ -139,6 +143,7 @@ A curated list of podcasts we like to listen to.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
 * [Packet Pushers](http://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
 * [Partially Derivative](http://www.partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
+* [PG Podcast](http://pgbovine.net/PG-Podcast.htm) - Philip Guo.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [Podcast.\__init__](http://podcastinit.com/) - A podcast about Python and the people who make it great.
@@ -180,6 +185,7 @@ A curated list of podcasts we like to listen to.
 * [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
 * [Test and Code Podcast](http://pythontesting.net/test-podcast/) - A podcast about Software Development, Software Testing, and Python.
 * [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - British podcast about Software Testing practices
+* [Text Talks](https://www.joecolantonio.com/testtalks/) - A podcast about software testing and automation.
 * [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
 * [The 6 Figure Developer Podcast](https://6figuredev.com) - The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
 * [The Accidental Engineer](http://theaccidentalengineer.com) - Interviews with engineers about how they started their career
@@ -192,6 +198,7 @@ A curated list of podcasts we like to listen to.
 * [The Bulwark Podcast](https://podcast.thebulwark.com/) - Smart, Conservative, Never Tribal.
 * [The Changelog](https://changelog.com/podcast/) - Open Source moves fast. Keep up. Releasing a new episode every Friday.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
+* [The Cloudcast](https://www.thecloudcast.net/)
 * [The Distributed Data Show](https://academy.datastax.com/weekly-show) - Weekly source for the latest news and technical expertise to help building large-scale distributed systems. Brought by the DataStax Technical Evangelist team, go in-depth with DataStax engineers and special guests from the broader data community. New episodes each Tuesday.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 * [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
