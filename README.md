@@ -11,7 +11,7 @@ A curated list of podcasts we like to listen to.
 * [TWiT](https://twit.tv/) 
 * [The Bitcoin Podcast Network](https://thebitcoinpodcast.com/) 
 * [Devchat.tv](https://devchat.tv/)
-* [Changelog](https://changelog.com/)
+* [Changelog](https://changelog.com/) - News and podcasts for developers.
 # Table of Contents
 
 ## Podcasts by language
